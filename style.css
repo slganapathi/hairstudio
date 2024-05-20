@@ -386,8 +386,8 @@ hr{
     transform: translate(-50%,-50%);
 }
 .footer-pic{
-    max-width: 251px;
-    opacity: 0.5;
+    max-width: 180px;
+    opacity: 0.4;
     position: absolute;
     left: 84%;
     top: 24%;
@@ -395,7 +395,7 @@ hr{
 }
 .footer-ava{
     max-width: 310px;
-    opacity: 0.8;
+    opacity: 0.5;
     position: absolute;
     left: 16%;
     top: 20%;
@@ -435,6 +435,4 @@ hr{
     .footer-img{
         top: 25%;
     }
-.footer-ava{
-    left: 50%;
-}
+
